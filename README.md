@@ -1,1 +1,1 @@
-# Owner-avatar-Customer-Churn-Prediction
+# Customer-Churn-Prediction
